@@ -199,15 +199,12 @@ I am currently building this portfolio around a cybersecurity training program t
 * introduction to cybersecurity
 * networking fundamentals
 * Linux for cybersecurity
-* virtualization and cloud basics
+* virtualization
 * Python / JavaScript for cybersecurity
-* systems and architecture
 * logic and problem solving
 * web fundamentals
-* AI in security
 * SOC fundamentals
 * incident response
-* future red-team foundations
 
 ---
 
